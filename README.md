@@ -4,24 +4,19 @@
 <table>
 <tr>
 <td>
-  This a clone of famous short news website inshorts.com built in React JS.
+  This a clone of famous short news website inshorts.com built in React JS and Material UI.
 </td>
 </tr>
 </table>
 
-## Demo
+<!--## Demo
 Here is a working live demo :
+-->
+
+Landing Page:
+![](https://github.com/mayank0911/Inshorts-News/blob/master/public/1.png)
 
 
-## Site
-
-### Landing Page
-
-![]
-
-### Choose from different Categories
-
-![]
 
 ## Built with 
 
