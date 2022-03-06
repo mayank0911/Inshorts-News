@@ -1,13 +1,8 @@
-# ![React Inshorts Clone]
 
-# React Inshorts Clone
-<table>
-<tr>
-<td>
-  This a clone of famous short news website inshorts.com built in React JS and Material UI.
-</td>
-</tr>
-</table>
+# Inshorts Clone
+
+ This a clone of famous short news website inshorts.com built in React JS and Material UI.
+
 
 <!--## Demo
 Here is a working live demo :
